@@ -61,16 +61,16 @@ docker-compose up --build
 - API Docs: http://localhost:8000/docs
 
 ## 🗺️ Roadmap
-- Design UI (Figma)
-- Setup arsitektur & GitHub
-- Slicing design: halaman login, register, dashboard
-- Database schema & API dasar
-- Integrasi backend–frontend
-- Fitur input bahan makanan
-- Integrasi AI/RAG pipeline
-- Testing & QA
-- Deployment ke GCP
-- Dokumentasi final
+- [ ] Design UI (Figma)
+- [ ] Setup arsitektur & GitHub
+- [ ] Slicing design: halaman login, register, dashboard
+- [ ] Database schema & API dasar
+- [ ] Integrasi backend–frontend
+- [ ] Fitur input bahan makanan
+- [ ] Integrasi AI/RAG pipeline
+- [ ] Testing & QA
+- [ ] Deployment ke GCP
+- [ ] Dokumentasi final
 
 ## 👥 Tim
 | [Marita Habibah] | Full Stack Developer |
